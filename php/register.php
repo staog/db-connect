@@ -10,7 +10,7 @@
     </div>
     <div class="row">
       <div class="col-lg-10 col-lg-offset-1">
-       <h3 class="page-header">Please register to our DB!</h3>
+       <h3 class="page-header">Please register!</h3>
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2">
             <form class="" action="insert.php" method="post">
