@@ -16,8 +16,6 @@
             <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam nihil possimus exercitationem, laborum optio officiis veniam voluptas molestias dolores, illo, nobis, magnam quidem hic rem asperiores ducimus est alias? Soluta!</div>
             <div>Neque beatae non tempora hic dignissimos unde. Blanditiis neque accusantium necessitatibus deleniti. Nostrum magni repellat, asperiores porro earum eius! Consequuntur nesciunt vel rerum temporibus unde mollitia vitae molestias ab reprehenderit?</div>
             <div>Vitae illo illum eligendi quasi corrupti, blanditiis. Soluta excepturi maxime, recusandae, id neque quo doloremque est, quod eum, quibusdam architecto corporis praesentium quia dolore dignissimos quidem eius ex sint tempora.</div>
-            <div>Animi, repellendus. Quas reiciendis facere debitis eius explicabo, unde optio eaque officia architecto ab, fugiat, porro tenetur atque repellat necessitatibus soluta. Magnam fugit nobis libero quam itaque? Beatae, quasi, quo.</div>
-            <div>Facilis nemo necessitatibus ex labore ab dolores. Illum atque quidem exercitationem laboriosam explicabo iure, consequatur alias corporis magnam. Animi dolores optio autem similique, tempora eius sit nulla excepturi earum placeat.</div>
           </div>
         </div>
        </div>
